@@ -3,6 +3,6 @@ obj/
 .vs/
 .idea/
 *.user
-pos-data/
-export/
+/pos-data/
+/export/
 TestResults/
